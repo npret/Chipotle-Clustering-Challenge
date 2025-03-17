@@ -25,7 +25,7 @@ The project is structured into **two Jupyter notebooks**:
 
 ---
 ## 📊 Visuals
-- **![Chipotle Restaurants in USA Map](Visuals/chipotle_map.png)**
+- **![Chipotle Restaurants in USA Map](visuals/chipotle_map.png)**
 
 Interactive visualizations available in the repository in Visuals folder!
 
